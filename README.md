@@ -3,7 +3,7 @@ Sales analysis in Tableau and 2 types of presentations (Executives and departmen
 
 
 
-Data set (Data extracted with Big Query): https://docs.google.com/spreadsheets/d/1_IwyNlke0DFh9SFT3CsqUxyCTdB3FIsasYSs133ftMI/edit?gid=446566054#gid=446566054
+Data set (Data extracted with Big Query): https://docs.google.com/spreadsheets/d/1_IwyNlke0DFh9SFT3CsqUxyCTdB3FIsasYSs133ftMI/edit?usp=sharing
 
 Tableau Dashboard: https://public.tableau.com/app/profile/julija.eponien./viz/Modul2_Sprint2/1PAGE#1
 
